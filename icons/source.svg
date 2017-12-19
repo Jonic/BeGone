@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#B4EC51" offset="0%"></stop>
+            <stop stop-color="#429321" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="84.0234375%" gradientTransform="translate(0.500000,0.500000),rotate(90.000000),scale(1.000000,0.976813),translate(-0.500000,-0.500000)" id="radialGradient-2">
+            <stop stop-color="#B4EC51" offset="0%"></stop>
+            <stop stop-color="#429321" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1">
+            <g id="Group-2" transform="translate(512.000000, 512.000000) rotate(28.000000) translate(-512.000000, -512.000000) translate(-213.000000, -213.000000)">
+                <g id="Group" transform="translate(725.000000, 725.000000) rotate(315.000000) translate(-725.000000, -725.000000) translate(213.000000, 213.000000)">
+                    <rect id="Rectangle-2" x="0" y="0" width="1024" height="1024"></rect>
+                    <path d="M562,50 L562,249.999974 C562,277.614237 539.614237,300 512,300 C484.385763,300 462,277.614237 462,250 L462,50 C462,22.3857625 484.385763,0 512,0 C539.614237,0 562,22.3857625 562,50 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                </g>
+                <g id="Group" transform="translate(725.000000, 725.000000) rotate(270.000000) translate(-725.000000, -725.000000) translate(213.000000, 213.000000)">
+                    <rect id="Rectangle-2" x="0" y="0" width="1024" height="1024"></rect>
+                    <path d="M562,50 L562,249.999974 C562,277.614237 539.614237,300 512,300 C484.385763,300 462,277.614237 462,250 L462,50 C462,22.3857625 484.385763,0 512,0 C539.614237,0 562,22.3857625 562,50 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                </g>
+                <g id="Group" transform="translate(725.000000, 725.000000) rotate(225.000000) translate(-725.000000, -725.000000) translate(213.000000, 213.000000)">
+                    <rect id="Rectangle-2" x="0" y="0" width="1024" height="1024"></rect>
+                    <path d="M562,50 L562,249.999974 C562,277.614237 539.614237,300 512,300 C484.385763,300 462,277.614237 462,250 L462,50 C462,22.3857625 484.385763,0 512,0 C539.614237,0 562,22.3857625 562,50 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                </g>
+                <g id="Group" transform="translate(725.000000, 725.000000) rotate(180.000000) translate(-725.000000, -725.000000) translate(213.000000, 213.000000)">
+                    <rect id="Rectangle-2" x="0" y="0" width="1024" height="1024"></rect>
+                    <path d="M562,50 L562,249.999974 C562,277.614237 539.614237,300 512,300 C484.385763,300 462,277.614237 462,250 L462,50 C462,22.3857625 484.385763,0 512,0 C539.614237,0 562,22.3857625 562,50 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                </g>
+                <g id="Group" transform="translate(725.000000, 725.000000) rotate(135.000000) translate(-725.000000, -725.000000) translate(213.000000, 213.000000)">
+                    <rect id="Rectangle-2" x="0" y="0" width="1024" height="1024"></rect>
+                    <path d="M562,50 L562,249.999974 C562,277.614237 539.614237,300 512,300 C484.385763,300 462,277.614237 462,250 L462,50 C462,22.3857625 484.385763,0 512,0 C539.614237,0 562,22.3857625 562,50 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                </g>
+                <g id="Group" transform="translate(725.000000, 725.000000) rotate(90.000000) translate(-725.000000, -725.000000) translate(213.000000, 213.000000)">
+                    <rect id="Rectangle-2" x="0" y="0" width="1024" height="1024"></rect>
+                    <path d="M562,50 L562,249.999974 C562,277.614237 539.614237,300 512,300 C484.385763,300 462,277.614237 462,250 L462,50 C462,22.3857625 484.385763,0 512,0 C539.614237,0 562,22.3857625 562,50 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                </g>
+                <g id="Group" transform="translate(725.000000, 725.000000) rotate(45.000000) translate(-725.000000, -725.000000) translate(213.000000, 213.000000)">
+                    <rect id="Rectangle-2" x="0" y="0" width="1024" height="1024"></rect>
+                    <path d="M562,50 L562,249.999974 C562,277.614237 539.614237,300 512,300 C484.385763,300 462,277.614237 462,250 L462,50 C462,22.3857625 484.385763,0 512,0 C539.614237,0 562,22.3857625 562,50 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                </g>
+                <g id="Group" transform="translate(213.000000, 213.000000)">
+                    <rect id="Rectangle-2" x="0" y="0" width="1024" height="1024"></rect>
+                    <path d="M562,50 L562,249.999974 C562,277.614237 539.614237,300 512,300 C484.385763,300 462,277.614237 462,250 L462,50 C462,22.3857625 484.385763,0 512,0 C539.614237,0 562,22.3857625 562,50 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                </g>
+            </g>
+            <circle id="Oval" fill="url(#radialGradient-2)" cx="512" cy="512" r="50"></circle>
+        </g>
+    </g>
+</svg>

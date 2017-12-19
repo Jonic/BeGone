@@ -1,0 +1,26 @@
+{
+	"name": "Be Gone!",
+	"version": "1.0.0",
+	"icons": {
+		"16": "icons/icon16.png",
+		"48": "icons/icon48.png",
+		"128": "icons/icon128.png"
+	},
+	"manifest_version": 2,
+	"description": "Remove anything you damn well want from any web page.",
+	"browser_action": {
+		"default_icon": {
+      "19": "icons/icon16.png",
+      "38": "icons/icon48.png"
+    },
+		"default_title": "BE GONE!"
+	},
+	"background": {
+    "scripts": [
+			"scripts/listener.js"
+		]
+  },
+  "permissions": [
+		"activeTab"
+	]
+}
